@@ -1,4 +1,4 @@
-## Olá! Eu sou o René Queiroz 🖐️
+## Tecnologias que eu uso no meu dia 🖐️
 <!-- ![René GitHub stats](https://github-readme-stats.vercel.app/api?username=rbqueiroz&show_icons=true&theme=dracula&count_private=true)
 -->
 <div style="display: inline_block"><br>
@@ -22,7 +22,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
   <a href="https://www.linkedin.com/in/rbqueiroz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
+<br>
+Apaixonado por tecnologia, e mudar a vida das pessoas através da programação.
 <!--
 **rbqueiroz/rbqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
